@@ -1,0 +1,4 @@
+# Create the file in /home directory
+echo "This is a demo file." > /home/demo.txt
+#Change Permissions
+chmod 764 /home/demo.txt
